@@ -1,6 +1,7 @@
 # QuizLit
+
 QuizLit is an AI-driven quiz generation platform that converts documents into structured, multi-format quizzes using LLMs. It supports difficulty levels, multi-format questions, PDF export, and a clean API + UI layer built for scale.
----
+
 
 ## Overview
 QuizLit transforms learning materials into interactive quizzes using advanced NLP pipelines:
@@ -13,7 +14,7 @@ QuizLit transforms learning materials into interactive quizzes using advanced NL
 - Additional quality-enhancement stage improves formatting + correctness
 - Quizzes can be taken, exported, or integrated via API
 
----
+
 
 ## ✨ Features
 ###🔹 Core AI Pipeline 
