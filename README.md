@@ -17,7 +17,7 @@ QuizLit transforms learning materials into interactive quizzes using advanced NL
 
 
 ## ✨ Features
-###🔹 Core AI Pipeline 
+### 🔹 Core AI Pipeline 
 - Document Ingestion: Supports PDFs, text files, and lecture notes
 - Text Chunking: Intelligent chunking for optimized retrieval
 - Embedding Generation: Uses sentence transformers/LLM embeddings
@@ -35,7 +35,7 @@ QuizLit transforms learning materials into interactive quizzes using advanced NL
 - ✔ Error handling + validation
 - ✔ Docker support for full stack
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -50,7 +50,7 @@ QuizLit transforms learning materials into interactive quizzes using advanced NL
 | **Containerization** | Docker, Docker Compose | Production-ready environment setup |
 | **Build Tools** | Node.js, npm / yarn | Needed for frontend development |
 
----
+
 
 ## 📁 Project Structure
 
@@ -60,7 +60,7 @@ QuizLit transforms learning materials into interactive quizzes using advanced NL
   - `docker-compose.yml`
   - `README.md`
 
----
+
 
 ## Installation
 
@@ -79,7 +79,7 @@ Before you begin, ensure you have the following installed on your system:
    git clone https://github.com/your-username/QuizLit.git
    cd QuizLit
 
---- 
+
 
 ## Set Up a Virtual Environment (Optional but recommended)
 
@@ -96,7 +96,7 @@ Inside the virtual environment, install all necessary dependencies by running:
 pip install -r requirements.txt
 ```
 
----
+
 
 ## 📝 License
 
