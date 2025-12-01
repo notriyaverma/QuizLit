@@ -1,4 +1,4 @@
-# QuizLit
+# QuizLit - AI Powered Quiz Builder
 
 QuizLit is an AI-driven quiz generation platform that converts documents into structured, multi-format quizzes using LLMs. It supports difficulty levels, multi-format questions, PDF export, and a clean API + UI layer built for scale.
 
