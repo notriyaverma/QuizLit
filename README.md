@@ -25,7 +25,7 @@ QuizLit transforms learning materials into interactive quizzes using advanced NL
 - Retrieval Pipeline: Converts user prompts → context-aware inputs
 - LLM Question Generation: Auto-creates questions from context
 - Basic Quiz Logic: Initial formatting + question structuring
-### Upcoming
+### Current
 - ✔ Difficulty levels
 - ✔ Multiple quiz formats (MCQ, True/False, Fill-in-the-blank)
 - ✔ Quality enhancement stage (grammar + clarity + distractor validation)
